@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/com/shrewdify/dcs/api/|src/com/shrewdify/dcs/impl/|src/com/shrewdify/dcs/main/|src/com/shrewdify/dcs/utils/|src/com/shrewdify/dcs/|src/com/shrewdify/|src/com/|src/|src/|resources/|resources/|libs/" kind="src" path=""/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.17.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-core-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
